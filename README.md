@@ -1,5 +1,7 @@
 # TrackIO Implementation Guide
 
+![Business Webinar (1)_page-0001](https://github.com/user-attachments/assets/fc55376a-b353-4e20-a3ed-9ec81c7f346f)
+
 A step-by-step guide to implementing TrackIO for experiment tracking in your machine learning projects.
 
 ## Overview
